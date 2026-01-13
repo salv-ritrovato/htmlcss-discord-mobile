@@ -20,7 +20,8 @@ video {
 
 /*===== CLASSES ======*/
 .background {
-    background-color: #191D7B;;
+    background-color: #191D7B;
+    padding-bottom: 60px;
 }
 .discord_logo {
     max-width: 100%;
