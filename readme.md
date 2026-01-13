@@ -1,4 +1,4 @@
-# Boolean - Esercizio 3
+# Boolean - Esercizio 4
 Repo: htmlcss-discord-mobile
 
 Proviamo a riprodurre il layout in allegato, sfruttando le proprietà imparate finora. 
