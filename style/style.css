@@ -11,13 +11,53 @@ body {
 }
 
 /*===== CLASSES ======*/
-.discord_bg {
-    z-index: -1;
-    position: fixed;
-    background-size: cover;
-    height: 100%;
-    width: 512px;
+.background {
+    background-color: #191D7B;;
 }
 .discord_logo {
     max-width: 100%;
+}
+
+.motto, .description_1 {
+    color: white;
+    text-align: center;
+}
+
+.motto {
+    margin-top: 60px;
+    margin-left: 60px;
+    margin-right: 60px;
+    font-family: 'sigmar';
+    font-size: 32px;
+    line-height: 35px;
+}
+
+.description_1 {
+    margin-top: 25px;
+    margin-left: 60px;
+    margin-right: 60px;
+    font-size: 16px;
+    font-family: 'DM Sans', sans-serif;
+}
+
+.buttons {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.download {
+    border: 1px solid black;
+    background-color: white;
+    margin-right: 70px;
+    margin-left: 70px;
+    border-radius: 5px;
+}
+
+.open_discord {
+    border: 1px solid black;
+    background-color: #5865F2;
+    margin-right: 70px;
+    margin-left: 70px;
+    border-radius: 5px;
+
 }
