@@ -88,6 +88,8 @@ video {
     margin-right: 70px;
     margin-left: 70px;
     border-radius: 10px;
+    box-sizing: content-box;
+    position: relative;
 }
 
 .group_title {
@@ -103,4 +105,18 @@ video {
     margin-top: 15px;
     margin-left: 20px;
     margin-right: 20px;
+}
+
+.discord_cube {
+    width: 90px;
+    position: absolute;
+    top: -40px;
+    left: 20px;
+}
+
+.discord_eyes {
+    width: 90px;
+    position: absolute;
+    top: -40px;
+    left: 20px;
 }
