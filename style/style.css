@@ -1,0 +1,23 @@
+/*====== CSS RESET =====*/
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/*===== body ======*/
+body {
+    max-width: 512px;
+}
+
+/*===== CLASSES ======*/
+.discord_bg {
+    z-index: -1;
+    position: fixed;
+    background-size: cover;
+    height: 100%;
+    width: 512px;
+}
+.discord_logo {
+    max-width: 100%;
+}
